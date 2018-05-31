@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PopStarVote</string>
+    <string name="main_text">Click on a picture to vote!</string>
+    <string name="title_activity_rating">RatingActivity</string>
+</resources>
